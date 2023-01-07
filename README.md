@@ -1,4 +1,6 @@
 # Visitor-count
+#### Video Demo: https://www.youtube.com/watch?v=8M4dwLDjVcw
+#### Description:
 Simple full stack application for counting visitors on the website
 ## Technologies used 
 Backend : NodeJS, Redis
